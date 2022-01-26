@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rosemuguna20
-- 👀 I’m interested in ...web programming
-- 🌱 I’m currently learning ...css language
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning ...java
 -i'm looking to collaborate on...many programming projects
 - 📫 How to reach me ...rosemarywambo88@gmail.com
 
